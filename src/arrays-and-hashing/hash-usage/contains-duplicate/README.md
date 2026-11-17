@@ -54,7 +54,7 @@ Time Complexity: O(n)
 
 Space Complexity: O(n)
 
-We use object to store the value count of each item. Each iteration we will check if the value already exists in the hash and check if it's count is above 0. This will let us know if the array contains a duplicate.
+We use object to store the value count of each item. Each iteration we will check if the value already exists in the hash and check if its count is above 0. This will let us know if the array contains a duplicate.
 
 ```ts
 const containsDuplicate = (nums: number[]): boolean => {
