@@ -2,8 +2,6 @@
 
 Difficulty: Easy
 
-DSA: Hash
-
 Reference: [LeetCode Problem #217](https://leetcode.com/problems/contains-duplicate/description/)
 
 ## Description
@@ -53,6 +51,8 @@ const containsDuplicate = (nums: number[]): boolean => {
 Time Complexity: O(n)
 
 Space Complexity: O(n)
+
+Technique used: Hash
 
 We use object to store the value count of each item. Each iteration we will check if the value already exists in the hash and check if its count is above 0. This will let us know if the array contains a duplicate.
 
