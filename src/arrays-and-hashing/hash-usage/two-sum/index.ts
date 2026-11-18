@@ -1,4 +1,4 @@
-const twoSum = (nums: number[], target: number): number[] | number => {
+const twoSum = (nums: number[], target: number): number[] => {
 	let possibleAddendsIdx: Record<number, number> = {};
 
 	for (let i = 0; i < nums.length; i++) {
@@ -10,7 +10,7 @@ const twoSum = (nums: number[], target: number): number[] | number => {
 		possibleAddendsIdx[nums[i]] = i;
 	}
 
-	return -1;
+	return [];
 };
 
 export { twoSum };
