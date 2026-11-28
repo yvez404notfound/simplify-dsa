@@ -25,24 +25,25 @@ Problems are grouped by topic so you can revisit a concept or practice related t
 
 #### Dynamic arrays
 
-| Problem                | Solution                                                                                     |
-| ---------------------- | -------------------------------------------------------------------------------------------- |
-| Concatenation of Array | [Read explanation and code](src/arrays-and-hashing/dynamic-arrays/1-concatenation-of-array/) |
+| Problem                | Difficulty | Solution                                                                     |
+| ---------------------- | ---------- | ---------------------------------------------------------------------------- |
+| Concatenation of Array | Easy       | [Read more](src/arrays-and-hashing/dynamic-arrays/1-concatenation-of-array/) |
 
 #### Hash maps and sets
 
-| Problem            | Solution                                                                             |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| Contains Duplicate | [Read explanation and code](src/arrays-and-hashing/hash-usage/1-contains-duplicate/) |
-| Two Sum            | [Read explanation and code](src/arrays-and-hashing/hash-usage/2-two-sum/)            |
-| Valid Anagram      | [Read explanation and code](src/arrays-and-hashing/hash-usage/3-valid-anagram/)      |
-| LRU Cache          | [Read explanation and code](src/arrays-and-hashing/hash-usage/4-lru-cache/)          |
+| Problem            | Difficulty | Solution                                                             |
+| ------------------ | ---------- | -------------------------------------------------------------------- |
+| Contains Duplicate | Easy       | [Read more](src/arrays-and-hashing/hash-usage/1-contains-duplicate/) |
+| Two Sum            | Easy       | [Read more](src/arrays-and-hashing/hash-usage/2-two-sum/)            |
+| Valid Anagram      | Easy       | [Read more](src/arrays-and-hashing/hash-usage/3-valid-anagram/)      |
+| LRU Cache          | Medium     | [Read more](src/arrays-and-hashing/hash-usage/4-lru-cache/)          |
 
 #### Prefix Sums
 
-| Problem                     | Solution                                                                                     |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| Range Sum Query - Immutable | [Read explanation and code](src/arrays-and-hashing/prefix-sums/1-range-sum-query-immutable/) |
+| Problem                        | Difficulty | Solution                                                                        |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------- |
+| Range Sum Query - Immutable    | Easy       | [Read more](src/arrays-and-hashing/prefix-sums/1-range-sum-query-immutable/)    |
+| Range Sum Query 2D - Immutable | Medium     | [Read more](src/arrays-and-hashing/prefix-sums/2-range-sum-query-2d-immutable/) |
 
 ## How to use this repository
 
